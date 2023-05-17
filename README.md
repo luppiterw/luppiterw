@@ -1,4 +1,6 @@
+<!-- 
 ### Hi there 👋
+-->
 
 <!--
 **luppiterw/luppiterw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=luppiterw)]()
+-->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=luppiterw&show_icons=true&theme=dark&count_private=true)
