@@ -44,27 +44,24 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=luppiterw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luppiterw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppiterw&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luppiterw&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br />
 
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luppiterw&theme=tokyonight" width="100%" alt="GitHub Activity Graph" />
+
+  <br /><br />
+
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=luppiterw&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=luppiterw&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luppiterw&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
