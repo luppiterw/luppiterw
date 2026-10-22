@@ -5,7 +5,9 @@
 
   <!-- Profile Visitor Counter & Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=luppiterw&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Visitor Counter" />
+    <!-- @2026-10-22: komarev.com 经过 GitHub Camo 代理时返回 404 (Cannot proxy the given URL)，暂替换为 hits.sh（备选：https://visitor-badge.laobi.icu/badge?page_id=luppiterw.luppiterw&left_text=Profile%20Views&right_color=%236c5ce7） -->
+    <!-- <img src="https://komarev.com/ghpvc/?username=luppiterw&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Visitor Counter" /> -->
+    <img src="https://hits.sh/github.com/luppiterw.svg?label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Visitor Counter" />
     <img src="https://img.shields.io/github/followers/luppiterw?label=Followers&logo=github&style=flat-square&color=2ecc71" alt="Followers" />
     <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-ff7675?style=flat-square" alt="Status" />
   </p>
@@ -55,7 +57,9 @@
   <br />
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luppiterw&theme=tokyonight" width="100%" alt="GitHub Activity Graph" />
+  <!-- @2026-10-22: 官方公共实例 github-readme-activity-graph.vercel.app 返回 402 Payment Required (Camo 502)，暂替换为可用镜像实例 -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=luppiterw&theme=tokyonight" width="100%" alt="GitHub Activity Graph" /> -->
+  <img src="https://github-act-graph.rodriaum.com/graph?username=luppiterw&theme=tokyonight" width="100%" alt="GitHub Activity Graph" />
 
   <br /><br />
 
