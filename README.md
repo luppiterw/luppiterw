@@ -45,11 +45,14 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
+      <!-- @2026-10-22: 镜像 github-readme-stats-sigma-five.vercel.app 的 PAT_1 额度耗尽报错 "Maximum retries exceeded"，切换回官方实例（其他可用备选镜像：github-readme-stats-eight-theta.vercel.app / github-readme-stats-fast.vercel.app） -->
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luppiterw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+        <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luppiterw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" /> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=luppiterw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luppiterw&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+        <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luppiterw&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" /> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luppiterw&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
